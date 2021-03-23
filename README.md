@@ -17,10 +17,14 @@ At the end we multiply those values and use them to print the 5 most important s
 
 Here we are given 4 values: N, P, S and T.
 
+
 N - number of points/particles
+
 S - size of a square going from -S to S
+
 T - units of time
-P - probability of vanishing ov every particle when it hits the wall
+
+P - probability of vanishing ov every particle when it hits the wall.
 
 We are also given starting positions and velocities of particles and we should calculate where each one of them will be in T units of time.
 We kept in mind that every time a particle hits a wall it bounces back in the way that the out-angle is the same as the in-angle.
