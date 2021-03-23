@@ -1,9 +1,11 @@
 # psiml2021
+
 My implementation of PSIML 2021 homework done on petlja.org
 
 It is done as a hackathon project so it may not be in the best shape until I fix it at some point in the future.
 
 These are mine explenations of the problems that will stay here until Homework Organizers decide to publish original Homework with all details.
+Once they publish it, I will update the README file with instructions on how to run the programs. Also, I will add public data sets.
 
 ### main.py
 
